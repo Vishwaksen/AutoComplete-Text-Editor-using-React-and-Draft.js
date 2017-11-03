@@ -1,0 +1,29 @@
+{
+  "name": "draft.js",
+  "version": "1.0.0",
+  "description": "AutoComplete Text Editor using React framework and Draft.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishwaksen/AutoComplete-Text-Editor-using-React-and-Draft.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishwaksen/AutoComplete-Text-Editor-using-React-and-Draft.js/issues"
+  },
+  "homepage": "https://github.com/Vishwaksen/AutoComplete-Text-Editor-using-React-and-Draft.js#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "draft-js": "^0.10.4",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "webpack": "^3.8.1"
+  }
+}
